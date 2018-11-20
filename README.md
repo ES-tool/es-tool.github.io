@@ -10,3 +10,4 @@
   - [x] [bootstrap-markdown] 开源 online 不支持内嵌html
   - [x] [markdown table generator](https://www.tablesgenerator.com/markdown_tables) 赞 支持表格样式
 - [ ] tex editor
+- [x] [paint](paint)
